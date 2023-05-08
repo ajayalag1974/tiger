@@ -1,0 +1,10 @@
+{
+    "inviteDomain" : "tiger24x7.com",
+    "backgroundColor" : "#621a16",
+    "backgroundImageUrl" : "https://tiger24x7.com/wp-content/uploads/sites/6/2020/11/cricket.jpg",
+    "logoClickUrl" : "https://tiger24x7.com",
+    "logoImageUrl" : "https://tiger24x7.com/wp-content/uploads/sites/6/2020/12/tiger-24x7-icon.png",
+    "avatarBackgrounds" : ["url(https://tiger24x7.com/wp-content/uploads/sites/6/2020/12/tiger-24x7-icon.png)"],
+    "premeetingBackground" : "url(https://tiger24x7.com/wp-content/uploads/sites/6/2020/11/cricket.jpg)",
+    "virtualBackgrounds" : ["https://tiger24x7.com/wp-content/uploads/sites/6/2020/11/cricket.jpg"]
+}
